@@ -39,6 +39,33 @@ I enjoy working across both the **technical and marketing sides of a project** �
 
 ---
 
+## ⚡ Recruiter Quick Scan
+
+<table>
+<tr>
+<td><strong>Role</strong></td>
+<td>Digital Marketing & Web Specialist</td>
+</tr>
+<tr>
+<td><strong>Core</strong></td>
+<td>WordPress • SEO • Google Ads • Web Development • AI</td>
+</tr>
+<tr>
+<td><strong>Strength</strong></td>
+<td>Bridging marketing goals with practical technical execution</td>
+</tr>
+<tr>
+<td><strong>Work Style</strong></td>
+<td>Hands-on • Analytical • Fast learner • Continuous improvement</td>
+</tr>
+<tr>
+<td><strong>Availability</strong></td>
+<td>Remote • Freelance • Full-time opportunities</td>
+</tr>
+</table>
+
+---
+
 ## 💼 Open to Opportunities
 
 I'm interested in opportunities such as:
@@ -102,63 +129,27 @@ I'm interested in opportunities such as:
 
 ## 🚀 Selected Projects & Case Studies
 
-### 01 — Business Website & Lead Generation
+<div align="center">
 
-**Focus:** WordPress • SEO • UX • Conversion
+| Project | What I Worked On | Focus |
+|---|---|---|
+| **[fotocopy.id](https://fotocopy.id)** | Business website, service/product structure, SEO-oriented content & lead generation | WordPress • SEO • Conversion |
+| **[reforma.co.id](https://reforma.co.id)** | Business website structure, landing sections, responsive UX & CTA optimization | WordPress • UX • Lead Generation |
+| **Local Business Marketing Systems** | Search visibility, Google Ads concepts, keyword strategy & conversion tracking | SEO • Google Ads • Analytics |
+| **AI-Assisted Digital Workflows** | Prompting, content ideation, creative production & productivity workflows | AI • Automation |
 
-Built and optimized business websites with a focus on:
-- Clear service/product structure
-- Mobile-responsive layouts
-- Strong calls-to-action
-- WhatsApp lead generation
-- SEO-friendly content structure
-- Local-business search visibility
+</div>
 
-**Example:** [fotocopy.id](https://fotocopy.id)
+### 📌 Project Approach
 
----
+For each project, I focus on four questions:
 
-### 02 — Digital Marketing & Search Visibility
+**01. What is the business goal?**  
+→ **02. What digital experience supports that goal?**  
+→ **03. How do we measure the result?**  
+→ **04. What can be improved next?**
 
-**Focus:** SEO • Google Ads • Conversion Optimization
-
-Worked on digital marketing workflows designed to help local businesses:
-- Reach users through search
-- Improve landing-page relevance
-- Structure keywords and negative keywords
-- Improve ad messaging
-- Track conversion actions
-- Turn website traffic into inquiries
-
----
-
-### 03 — WordPress Business Website Development
-
-**Focus:** WordPress • Elementor • Responsive Design
-
-Created practical business website experiences with:
-- Responsive layouts
-- Service and product sections
-- Testimonials
-- Branch/location information
-- Conversion-focused CTAs
-- Performance-conscious implementation
-
-**Example:** [reforma.co.id](https://reforma.co.id)
-
----
-
-### 04 — AI-Assisted Digital Workflows
-
-**Focus:** Generative AI • Prompt Engineering • Productivity
-
-Exploring AI to accelerate:
-- Content creation
-- Website planning
-- Creative production
-- Marketing workflows
-- Research and ideation
-- Repetitive digital tasks
+> I prefer practical solutions that are **useful, measurable and maintainable** over technology for technology's sake.
 
 ---
 
@@ -251,6 +242,14 @@ AI
 ```
 
 ---
+
+## 📬 Recruiter & Collaboration
+
+If you're looking for someone who can work across **digital marketing, websites and AI-assisted workflows**, I'd be happy to connect.
+
+**Best fit:** Digital Marketing • SEO • WordPress • Web • AI-assisted digital projects
+
+> 📩 **For opportunities or collaboration, please reach out through my GitHub profile.**
 
 ## 🤝 Let's Work Together
 
